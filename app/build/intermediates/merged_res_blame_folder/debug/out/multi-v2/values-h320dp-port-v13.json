@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pocketlibapplication.app-mergeDebugResources-45:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\22387e8fbe20e0cb7cba8fe01d71293a\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\3fab757c38b6cabc623216fadfdbf8f4\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "75",
-                        "endOffsets": "126"
+                        "endColumns": "63",
+                        "endOffsets": "114"
                     }
                 }
             ]

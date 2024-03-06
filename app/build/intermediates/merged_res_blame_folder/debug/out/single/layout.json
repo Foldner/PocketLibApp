@@ -1,18 +1,26 @@
 [
     {
-        "merged": "com.example.pocketlibapplication.app-mergeDebugResources-46:/layout/fragment_home.xml",
-        "source": "com.example.pocketlibapplication.app-main-49:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-mergeDebugResources-48:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_search.xml"
     },
     {
-        "merged": "com.example.pocketlibapplication.app-mergeDebugResources-46:/layout/activity_main.xml",
-        "source": "com.example.pocketlibapplication.app-main-49:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-mergeDebugResources-48:\\layout\\fragment_books.xml",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_books.xml"
     },
     {
-        "merged": "com.example.pocketlibapplication.app-mergeDebugResources-46:/layout/fragment_notifications.xml",
-        "source": "com.example.pocketlibapplication.app-main-49:/layout/fragment_notifications.xml"
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.pocketlibapplication.app-mergeDebugResources-46:/layout/fragment_dashboard.xml",
-        "source": "com.example.pocketlibapplication.app-main-49:/layout/fragment_dashboard.xml"
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-mergeDebugResources-48:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "com.example.pocketlibapp-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.pocketlibapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_home.xml"
     }
 ]

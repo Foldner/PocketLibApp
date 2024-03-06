@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pocketlibapplication.app-mergeDebugResources-45:/values-port/values-port.xml",
+            "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\57afe30f371720e351249c64d20393a5\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

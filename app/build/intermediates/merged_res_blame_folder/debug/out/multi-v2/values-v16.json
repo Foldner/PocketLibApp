@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pocketlibapplication.app-mergeDebugResources-45:/values-v16/values-v16.xml",
+            "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\57afe30f371720e351249c64d20393a5\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\dfe327b8d2793e8e01f86149919dfbc4\\transformed\\core-1.13.0-alpha05\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\06bf1874679e30876b02867737283f5c\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
