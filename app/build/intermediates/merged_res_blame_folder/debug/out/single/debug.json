@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_fragment_books.xml.flat",
-        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_books.xml"
-    },
-    {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
@@ -28,16 +24,20 @@
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\xml\\backup_rules.xml"
     },
     {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_fragment_bookmark.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\fragment_bookmark.xml"
+    },
+    {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_baseline_search_24.xml.flat",
-        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_baseline_search_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_dashboard_black_24dp.xml.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_baseline_search_24.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -64,12 +64,16 @@
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-pngs-44:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_activity_book_info.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\activity_book_info.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_menu_items_colors.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\menu_items_colors.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_fragment_search.xml.flat",
@@ -80,12 +84,16 @@
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_baseline_menu_book_24.xml.flat",
-        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_baseline_menu_book_24.xml"
+        "merged": "com.example.pocketlibapp-merged_res-49:/layout_fragment_home.xml.flat",
+        "source": "com.example.pocketlibapp-main-51:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_notifications_black_24dp.xml.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -100,8 +108,16 @@
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_baseline_bookmark_24.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\drawable\\ic_baseline_bookmark_24.xml"
+    },
+    {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_book_card.xml.flat",
+        "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\book_card.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_ic_home_black_24dp.xml.flat",
@@ -110,10 +126,6 @@
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-main-51:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.example.pocketlibapp-merged_res-49:/layout_activity_main.xml.flat",
-        "source": "com.example.pocketlibapp-main-51:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Вячеслав\\.gradle\\daemon\\7.4\\com.example.pocketlibapp-merged_res-49:\\drawable_logo.xml.flat",

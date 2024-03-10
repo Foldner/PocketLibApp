@@ -3,11 +3,6 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
-        <entry key="imageWizard">
-          <value>
-            <PersistentState />
-          </value>
-        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -16,25 +11,11 @@
                   <entry key="vectorAssetStep">
                     <value>
                       <PersistentState>
-                        <option name="children">
-                          <map>
-                            <entry key="clipartAsset">
-                              <value>
-                                <PersistentState>
-                                  <option name="values">
-                                    <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android%20Studio/icons/material/materialicons/bookmark/baseline_bookmark_24.xml" />
-                                    </map>
-                                  </option>
-                                </PersistentState>
-                              </value>
-                            </entry>
-                          </map>
-                        </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_baseline_bookmark_24" />
-                            <entry key="sourceFile" value="D:\PocketLibApplication\PocketLibApp" />
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="__icon__menu_" />
+                            <entry key="sourceFile" value="D:\Downlods\ icon _menu_.svg" />
                           </map>
                         </option>
                       </PersistentState>
