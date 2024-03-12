@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="32"
-8-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml
+8-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="34" />
-9-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml
+9-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml
 10
 11    <permission
 11-->[androidx.core:core:1.12.0] C:\Users\Вячеслав\.gradle\caches\transforms-3\06bf1874679e30876b02867737283f5c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
@@ -22,66 +22,66 @@
 15-->[androidx.core:core:1.12.0] C:\Users\Вячеслав\.gradle\caches\transforms-3\06bf1874679e30876b02867737283f5c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:5:5-36:19
+17-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:5:5-36:19
 18        android:allowBackup="true"
-18-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:6:9-35
+18-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.12.0] C:\Users\Вячеслав\.gradle\caches\transforms-3\06bf1874679e30876b02867737283f5c\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:7:9-65
+20-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:8:9-54
+23-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:9:9-43
+24-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:10:9-41
+25-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:11:9-54
+26-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:12:9-35
+27-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.PocketLibApp" >
-29-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:13:9-50
+29-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:13:9-50
 30        <activity
-30-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:15:9-21:20
+30-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:15:9-21:20
 31            android:name="com.example.pocketlibapp.BookInfoActivity"
-31-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:16:13-45
+31-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:16:13-45
 32            android:exported="false" >
-32-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:17:13-37
+32-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:17:13-37
 33            <meta-data
-33-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:18:13-20:36
+33-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:18:13-20:36
 34                android:name="android.app.lib_name"
-34-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:19:17-52
+34-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:19:17-52
 35                android:value="" />
-35-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:20:17-33
+35-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:20:17-33
 36        </activity>
 37        <activity
-37-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:22:9-35:20
+37-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:22:9-35:20
 38            android:name="com.example.pocketlibapp.MainActivity"
-38-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:23:13-41
+38-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:23:13-41
 39            android:exported="true"
-39-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:24:13-36
+39-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:24:13-36
 40            android:label="@string/app_name" >
-40-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:25:13-45
+40-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:25:13-45
 41            <intent-filter>
-41-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:26:13-30:29
+41-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:26:13-30:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:27:17-69
-42-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:27:25-66
+42-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:27:17-69
+42-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:27:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:29:17-77
-44-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:29:27-74
+44-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:29:17-77
+44-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:29:27-74
 45            </intent-filter>
 46
 47            <meta-data
-47-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:18:13-20:36
+47-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:18:13-20:36
 48                android:name="android.app.lib_name"
-48-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:19:17-52
+48-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:19:17-52
 49                android:value="" />
-49-->D:\PocketLibApplication\PocketLibApp2\app\src\main\AndroidManifest.xml:20:17-33
+49-->D:\PocketLibApplication\PocketLibApp\app\src\main\AndroidManifest.xml:20:17-33
 50        </activity>
 51
 52        <provider

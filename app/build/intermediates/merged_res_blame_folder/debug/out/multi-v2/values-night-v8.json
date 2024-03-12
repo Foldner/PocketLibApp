@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\PocketLibApplication\\PocketLibApp2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\PocketLibApplication\\PocketLibApp\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
