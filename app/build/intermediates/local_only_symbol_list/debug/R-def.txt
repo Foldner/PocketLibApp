@@ -22,6 +22,7 @@ drawable logo
 drawable menu_items_colors
 id book_info_header
 id book_info_label
+id book_line_header
 id container
 id header_home
 id images
@@ -36,7 +37,10 @@ id navigation_account
 id navigation_bookmark
 id navigation_home
 id navigation_search
+id recyclerAllBooks
 id recyclerNewBooks
+id recyclerNewLineBooks
+id scrollView
 id text_author
 id text_dashboard
 id text_name
@@ -44,6 +48,8 @@ id text_notifications
 layout activity_book_info
 layout activity_main
 layout book_card
+layout book_card2
+layout book_line
 layout fragment_account
 layout fragment_bookmark
 layout fragment_home

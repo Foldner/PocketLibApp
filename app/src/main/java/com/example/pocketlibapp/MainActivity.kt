@@ -10,6 +10,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.example.pocketlibapp.databinding.ActivityMainBinding
 
 data class BookCard(var author: String?, var name: String?, var urlImg: String?)
+data class BookLine(var header: String?, var books: List<BookCard>)
 
 class MainActivity : AppCompatActivity() {
 

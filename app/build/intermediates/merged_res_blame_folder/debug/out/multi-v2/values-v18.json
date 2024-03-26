@@ -4,7 +4,7 @@
             "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

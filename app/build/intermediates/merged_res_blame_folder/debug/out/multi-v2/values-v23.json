@@ -4,7 +4,7 @@
             "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\3fab757c38b6cabc623216fadfdbf8f4\\transformed\\material-1.11.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\3fab757c38b6cabc623216fadfdbf8f4\\transformed\\material-1.11.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\ecb62397fcd2d0e31dd8cc20a358496e\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\ecb62397fcd2d0e31dd8cc20a358496e\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\04572fe80328706cea89229d61e83872\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "com.example.pocketlibapp-mergeDebugResources-47:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Вячеслав\\.gradle\\caches\\transforms-3\\3fab757c38b6cabc623216fadfdbf8f4\\transformed\\material-1.11.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\AndriodProg\\.gradle\\caches\\transforms-3\\3fab757c38b6cabc623216fadfdbf8f4\\transformed\\material-1.11.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
